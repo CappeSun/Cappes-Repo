@@ -1,0 +1,13 @@
+div{
+	width: fit-content;
+	padding-top: 70px;
+	margin: auto;
+}
+
+h1{
+	display: inline;
+	background: -webkit-linear-gradient(0deg, red, orange, yellow, green, blue, indigo, violet);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-size: 3vh;
+}
